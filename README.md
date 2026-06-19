@@ -10,16 +10,16 @@ The Student Management System is a console-based application developed in C++ to
 
 Features:
 
-➕ Add Student
-📋 Display All Students
-🔍 Search Student by ID or Name
-✏️ Update Student Information
-❌ Delete Student Record
+* ➕ Add Student
+* 📋 Display All Students
+* 🔍 Search Student by ID or Name
+* ✏️ Update Student Information
+* ❌ Delete Student Record
 
 Technologies Used:
 
-Language: C++
-IDE: (e.g., Visual Studio Code / Code::Blocks / Dev-C++)
+* Language: C++
+* IDE: (e.g., Visual Studio Code / Code::Blocks / Dev-C++)
 
 Learning Objectives
 
@@ -27,8 +27,8 @@ This project was built to strengthen core C++ programming skills and gain practi
 
 Future Improvements
 
-File handling for permanent data storage.
-User authentication (Admin Login).
-Improved menu interface.
-Sorting and filtering student records.
-Better error handling and input validation.
+* File handling for permanent data storage.
+* User authentication (Admin Login).
+* Improved menu interface.
+* Sorting and filtering student records.
+* Better error handling and input validation.
